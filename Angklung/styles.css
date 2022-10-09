@@ -1,0 +1,58 @@
+body {
+    background-image: url(1476592.jpg);
+    background-size: cover;
+    text-align: center;
+    padding-right: 1%;
+    font-family: 'Arvo', cursive;
+}
+
+h1 {
+    font-family: 'Gemunu Libre', sans-serif;
+    font-weight: 800;
+    color: #DBEDF3;
+    font-size: 4rem;
+    padding-top: 3%;
+    margin-left: 2%;
+}
+
+h3{
+    color: #DBEDF3;
+    padding-top: 4%;
+}
+img{
+    width: 5%;
+    margin: 1%;
+}
+
+.angklung {
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #ee8f31;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    width: 170px;
+    height: 170px;
+    margin-top: 3%;
+    background-color: white;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/8029/8029527.png);
+    background-size: cover;
+    margin-left: 2%;
+}
+
+.angklungg{
+    padding-top: 3%;
+}
+
+footer{
+    color: #DBEDF3;
+    padding: 5%;
+    font-size: 1.5rem;
+}
+
+.pressed{
+    opacity: 0.5;
+}
